@@ -36,6 +36,7 @@ currentMoment.add(-1,'days');
 tR += rightAngle;
 %>
 
+<b><span style="background:#fff88f">Tasks in Tasks list are sorted by priority!</span></b>
 ## Today 🔆
 
 > [!CHECK]+ Super Productivity ☑️
@@ -230,6 +231,8 @@ filter: "#Inbox"
 
 ## Daily Focus 🔥 & Goals 🎯
 
+
+## Review 🔎
 
 
 ## Journal 📔
